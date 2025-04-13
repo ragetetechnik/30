@@ -1,0 +1,9 @@
+{
+  "name": "30-test",
+  "version": "0.0.1",
+  "description": "test for smallest npm package",
+  "license": "MIT",
+  "author": "ragetetechnik",
+  "type": "commonjs",
+  "main": "index.js"
+}
